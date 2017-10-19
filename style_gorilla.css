@@ -78,11 +78,11 @@
     object-position: 50% 100%;
 }
 .bg {
-background: #4f8549;
-background: -moz-radial-gradient(center, ellipse cover, #4f8549 0%, #1a2718 100%);
-background: -webkit-radial-gradient(center, ellipse cover, #4f8549 0%,#1a2718 100%);
-background: radial-gradient(ellipse at center, #4f8549 0%,#1a2718 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f8549', endColorstr='#1a2718',GradientType=1 );
+background: #517f4c;
+background: -moz-radial-gradient(center, ellipse cover, #517f4c 0%, #1a2718 100%);
+background: -webkit-radial-gradient(center, ellipse cover, #517f4c 0%,#1a2718 100%);
+background: radial-gradient(ellipse at center, #517f4c 0%,#1a2718 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#517f4c', endColorstr='#1a2718',GradientType=1 );
 }
 .wrapper {
     padding-top: 100;
